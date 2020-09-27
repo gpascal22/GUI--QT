@@ -1,6 +1,5 @@
 // Software Radio Interface
 // Author: Pascal Gautam
-// Submitted to: Dr Dan Tamir
 
 #include <QApplication>
 #include "mainWindow.h"
